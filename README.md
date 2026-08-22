@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rajiya Dudekula
 
-### 💻 Software Developer | Java & Python | Data Science & Machine Learning
+### 💻 Software Developer | Full Stack JavaDeveloper
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rajiya9390&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
